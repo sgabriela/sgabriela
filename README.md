@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Gabriela! 👋  
 
-<!--
-**sgabriela/sgabriela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **Bioinformatics Specialist** @ [The Rockefeller University](https://www.rockefeller.edu/) in NYC 🗽  
 
-Here are some ideas to get you started:
+In our [lab](https://www.rockefeller.edu/our-scientists/heads-of-laboratories/875-michel-c-nussenzweig/), we study the Germinal Center reaction and the process of antibody affinity maturation. On my daily routine, I work as a workflow developer and dive into data analysis, using a variety of computational tools to tackle complex biological questions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me  
+- 🖥️ I analyze multi-omics datasets and explore **genomic regulation**
+- 🧬 I am very interested in genomics and epigenomics
+- 🌍 I’ve lived in a few places around the world, including São Paulo 🇧🇷, Munich 🇩🇪, and now New York 🇺🇸
+- 📚 Here's the record of my [previous publications](https://scholar.google.com/citations?user=kyaV9PgAAAAJ&hl=en)
+
+---
+
+🐱 Fun fact: My cat **Ralph** is the mastermind behind my scripts! 
