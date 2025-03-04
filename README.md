@@ -14,4 +14,4 @@ In our [lab](https://www.rockefeller.edu/our-scientists/heads-of-laboratories/87
 
 ---
 
-🐱 Fun fact: My cat **Ralph** is the mastermind behind my scripts! 
+🐱 Fun fact: My cat **Dr. Ralph** is the mastermind behind my scripts! 
