@@ -11,7 +11,3 @@ In our [lab](https://www.rockefeller.edu/our-scientists/heads-of-laboratories/87
 - 🧬 I am very interested in genomics and epigenomics
 - 🌍 I’ve lived in a few places around the world, including São Paulo 🇧🇷, Munich 🇩🇪, and now New York 🇺🇸
 - 📚 Here's the record of my [previous publications](https://scholar.google.com/citations?user=kyaV9PgAAAAJ&hl=en)
-
----
-
-🐱 Fun fact: My cat **Dr. Ralph** is the mastermind behind my scripts! 
